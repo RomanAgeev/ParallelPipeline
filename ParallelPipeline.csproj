@@ -14,4 +14,8 @@
     <Description>The golang inspired producer-consumer parallel library</Description>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="RA_Guards" Version="1.0.0-release" />
+  </ItemGroup>
+
 </Project>

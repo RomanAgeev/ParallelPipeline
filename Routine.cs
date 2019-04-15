@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Guards;
 using ParallelPipeline.Channels;
 
-using CancellationToken = ParallelPipeline.CancellationToken;
+using CancellationToken = ParallelCore.CancellationToken;
 
 namespace ParallelPipeline {
     public interface IRoutine {

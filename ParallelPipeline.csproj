@@ -10,7 +10,7 @@
     <VersionSuffix>release</VersionSuffix>
     <Authors>Roman Ageev</Authors>
     <Owners>Roman Ageev</Owners>
-    <Title>Guards</Title>
+    <Title>Parallel Pipeline Library</Title>
     <Description>The golang inspired producer-consumer parallel library</Description>
   </PropertyGroup>
 
